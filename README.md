@@ -1,4 +1,4 @@
-# fe_concept
+# ReactJS Concept
 
 ---
 ## Mixture of
@@ -6,6 +6,6 @@
 - frontend problem code
 
 ---
-## form_on_click_btn_value_change.html
-	- on click fruit display banana, on click vegitable display potato.
-<kbd><img src="/imgs-readme/form_on_click_btn_value_change_v1-1.gif"></img></kbd>
+## ReactJS home page
+	- ReactJS default page.
+<kbd><img src="/imgs-readme/Screenshot from 2019-11-08 17-57-42.png"></img></kbd>
